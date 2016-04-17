@@ -1,0 +1,21 @@
+垂直引擎
+
+设计一个c#爬虫程序，将数据爬取下来并解析，存入mysql或者sqlserver，当用户搜索的时候呈现给用户
+1、程序能够实现功能
+2、编写实验报告，2.1HTML数据解析2.2c#爬虫2.3ado.net练习。2.4mvc程序设计
+3、上交设计报告
+4、提交爬取的数据，解析以后的数据
+5、源代码
+解析出的api名称，api介绍等
+
+
+18个分类*3
+
+https://market.mashape.com/explore
+
+阿里云市场
+https://market.aliyun.com/?spm=5176.730005-53448001.0.0.BGkC5G
+
+amazon https://aws.amazon.com/marketplace/ref=brs_navhdr_header
+
+
