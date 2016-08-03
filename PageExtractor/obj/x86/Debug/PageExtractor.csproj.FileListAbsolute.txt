@@ -98,3 +98,17 @@ E:\VSStudy\PageExtractor.bak\PageExtractor\obj\x86\Debug\PageExtractor_MarkupCom
 E:\VSStudy\PageExtractor.bak\PageExtractor\obj\x86\Debug\PageExtractor.g.resources
 E:\VSStudy\PageExtractor.bak\PageExtractor\obj\x86\Debug\PageExtractor.Properties.Resources.resources
 E:\VSStudy\PageExtractor.bak\PageExtractor\obj\x86\Debug\PageExtractor.csproj.GenerateResource.Cache
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.exe
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.pdb
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\bin\Debug\PageExtractor.exe
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\bin\Debug\PageExtractor.pdb
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.csprojResolveAssemblyReference.cache
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\MainWindow.baml
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PropertyWindow.baml
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PropertyWindow.g.cs
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\App.g.cs
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor_MarkupCompile.cache
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.g.resources
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.Properties.Resources.resources
+C:\Users\54675\Documents\GitHub\MyPachong\PageExtractor\obj\x86\Debug\PageExtractor.csproj.GenerateResource.Cache
